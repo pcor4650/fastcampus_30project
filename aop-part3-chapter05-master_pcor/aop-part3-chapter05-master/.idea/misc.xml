@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/000.EDU/Android_30PRJ_Kotlin/github_Source_Code/aop-part3-chapter05-master/aop-part3-chapter05-master/app/src/main/res/layout/activity_like.xml" value="0.3302083333333333" />
+        <entry key="..\:/000.EDU/Android_30PRJ_Kotlin/github_Source_Code/aop-part3-chapter05-master/aop-part3-chapter05-master/app/src/main/res/layout/item_card.xml" value="0.4207427536231884" />
+        <entry key="..\:/000.EDU/Android_30PRJ_Kotlin/github_Source_Code/aop-part3-chapter05-master/aop-part3-chapter05-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.5697916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

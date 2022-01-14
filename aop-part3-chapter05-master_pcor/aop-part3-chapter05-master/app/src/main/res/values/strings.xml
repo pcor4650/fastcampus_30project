@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">aop-part3-chapter05-final</string>
+    <string name="facebook_app_id">551042246012634</string>
+    <string name="fb_login_protocol_scheme">fb551042246012634</string>
+
+
+    <string name="write_name">이름을 입력해주세요</string>
+</resources>
