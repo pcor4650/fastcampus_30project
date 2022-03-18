@@ -1,5 +1,6 @@
 package pcor4650.bmiCalculator
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -22,6 +23,13 @@ class MainActivity : AppCompatActivity() {
             }
             val height: Int = heightEditText.text.toString().toInt()
             val weight:Int = weightEditText.text.toString().toInt()
+
+            val intent = Intent(this, ResultActivity::class.java)
+
+            intent.putExtra("height", height)
+            intent.putExtra("weight", weight)
+
+            startActivity(intent)
 
         }
     }
